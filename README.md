@@ -8,7 +8,9 @@
 
 **movie-website/**
 ├── index.html      # Main HTML file
+
 ├── style.css       # Styling with CSS
+
 └── script.js       # Interactivity with JavaScript
 
 **🧰 Tools & Technologies**
@@ -19,6 +21,7 @@ CSS3
 JavaScript (Vanilla)
 
 Git & GitHub
+
 GitHub Pages (for hosting)
 
 
