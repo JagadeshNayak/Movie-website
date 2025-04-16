@@ -51,6 +51,25 @@ Folder: / (root)
 
 💡 Click Save and wait for GitHub to generate your live link.
 
+**Link for the Hosted Movie-Website:**
+
+https://jagadeshnayak.github.io/Movie-website/
+
+
+**✨ Features**
+📱 Responsive Design for mobile and desktop
+
+🎨 Custom Styling using CSS
+
+🎬 Interactive Elements powered by JavaScript
+
+🌍 Deployed Online using GitHub Pages
+
+✅ We have successfully hosted our movie website using GitHub Pages.
+
+🙏 Special thanks to Elevate Labs for assigning this task and giving us the opportunity to learn and build!
+
+# Gugulothu Jagadish
 
 
 
